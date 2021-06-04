@@ -2,6 +2,8 @@
 
 <p align="center"> A Discord Bot Based Around Anime, and Mai </p>
 
+https://forthebadge.com/images/badges/made-with-javascript.svg
+
 <p align="center">
   <a href="http://forthebadge.com/">
     <img src="http://forthebadge.com/images/badges/built-with-love.svg"/>
